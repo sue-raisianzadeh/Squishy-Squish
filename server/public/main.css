@@ -478,21 +478,19 @@ transform: translate(-50%, -50%);
 .inputName {
   border-radius: 20px;
   align-items: center;
-  transform: translate(5%, 12%);
+  transform: translate(-4%, 12%);
   top: 10px;
   color: #252220;
-  font-size: 0.75em;
+  font-size: 0.5em;
   font-weight: bold;
-
   font-family: 'Press Start 2P', cursive;
   background: rgb(212, 202, 181);
-
   border: solid #301e15 3px;
   background: linear-gradient(180deg, rgb(231, 204, 142) 0%,
    rgb(184, 177, 138) 100%);
    box-shadow: 3px 3px #263b5a;
-   width: 350px;
-   height: 0.75em;
+   width: 480px;
+   height: 1.25em;
    padding: 10px;
 
 }
