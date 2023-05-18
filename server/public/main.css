@@ -487,7 +487,7 @@ transform: translate(-50%, -50%);
   background: rgb(212, 202, 181);
   border: solid #301e15 3px;
   background: linear-gradient(180deg, rgb(231, 204, 142) 0%,
-   rgb(184, 177, 138) 100%);
+   rgb(184, 177, 138) 100%; rgb(237, 214, 152) 0%);
    box-shadow: 3px 3px #263b5a;
    width: 480px;
    height: 1.25em;
